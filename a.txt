@@ -7,3 +7,4 @@ mater update
 dev update 666
 master update 1
 dev update 777
+local update
